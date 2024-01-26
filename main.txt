@@ -1,1 +1,2 @@
 This is the starting file for the project
+Added a bluetooth connectivity to the project
